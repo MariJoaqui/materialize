@@ -1,0 +1,19 @@
+* {
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+.color-fondo {
+    background-color: black;
+}
+
+.fondito {
+    background-color: brown;
+}
+
+.fondo-section {
+    background-color: rgb(109, 141, 91);
+}
+
+.section h5, p {
+    text-align: justify;
+}
